@@ -1,0 +1,79 @@
+/*
+Author: Venus Yu
+Version: 9/22/2015
+Project 1: Apple Strudel Recipe
+*/
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 175%;
+    background-color: #D6ADC2;
+    padding: 20px;
+    margin-bottom: 30px;;
+}
+
+.caption {
+    font-size: 75%;
+    margin-top: 5px;
+}
+
+dt {
+    font-weight: bold;
+    font-size: 95%;
+}
+
+dd {
+    font-size: 95%;
+}
+
+h2 {
+    font-size: 125%;
+    background-color: #FFEB99;
+    padding: 10px;
+    padding-left: 20px;
+    border-top-style: solid;
+    border-top-color: black;
+}
+
+h3 {
+    font-size: 100%;
+    padding-left: 20px;
+}
+
+ul.a {
+    list-style-type: disc;
+    padding-left: 50px;
+}
+
+ol {
+    font-size: 95%;
+    font-weight: bold;
+}
+
+.unorder {
+    list-style-type: none;
+}
+
+.unorder > ul {
+    font-weight: normal;
+    list-style-type: circle;
+    margin-left: 10px;
+}
+
+.user {
+    font-size: 95%;
+    font-style: italic;
+    margin: 30px;
+    padding: 5px;
+    background-color: #EBF5CC;
+}
+
+.link {
+    font-size: 95%;
+    padding-left: 30px;
+}
+
+
