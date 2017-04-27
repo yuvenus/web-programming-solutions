@@ -1,0 +1,118 @@
+body {
+    background-color: #DFE4D2;
+}
+
+header {
+    background-image: url(images/rancidbannerbg.png);
+    text-align: center;
+}
+
+#content {
+    width: 800px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #999999;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #EEEEEE;
+    overflow: hidden;
+}
+
+h1 {
+    font-family: serif;
+    font-size: 24pt;
+    font-weight: bold;
+    text-shadow: 3px 3px 0px #999999;
+    text-align: center;
+}
+
+.overview {
+    float: right;
+    width: 250px;
+    background-color: #A2B964;
+}
+
+.overview dl {
+    font-family: sans-serif;
+    font-size: 10pt;
+    padding-left: 10pt;
+}
+
+.overview dt {
+    font-weight: bold;
+}
+
+.overview dd {
+    padding-bottom: 10pt;
+}
+
+dd li {
+    list-style-type: none;
+    margin-left: -40px;
+}
+
+.reviews {
+    font-family: serif;
+    font-size: 10pt;
+    float: left;
+    width: 550px;
+}
+
+.review_head img {
+    float: left;
+}
+
+.review_head header {
+    font-family: "Tahoma";
+    font-size: 48pt;
+    font-weight: bold;
+    text-align: left;
+    color: red;
+    background-image: url(images/rottenlargebg.png);
+    float: left;
+    width: 452px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.reviews .quote {
+    background-color: #FFFFFF;
+    border: solid;
+    border-color: #CCCCCC;
+    border-width: 2px;
+    border-radius: 20px;
+    padding: 8px;
+    overflow: hidden;
+}
+
+.reviews .person {
+    margin-bottom: 20pt;
+}
+
+.reviews1 {
+    float: left;
+    width: 47%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.reviews2 {
+    float: left;
+    width: 47%;
+}
+
+.quote img {
+    float: left;
+    margin: 5px;
+}
+
+.person img {
+    float: left;
+}
+
+.status {
+    clear: both;
+    text-align: center;
+    background-color: #A2B964;
+    padding: 5px;
+    margin: 0px;
+}
